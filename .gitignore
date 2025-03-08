@@ -1,0 +1,21 @@
+# 🔹 .NET build files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 Rider / JetBrains settings
+.idea/
+*.sln.iml
+
+# 🔹 NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+.nuget/
